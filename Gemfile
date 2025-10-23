@@ -3,6 +3,9 @@ source "https://rubygems.org"
 # GitHub Pages gem
 gem "github-pages", group: :jekyll_plugins
 
+# Theme
+gem "jekyll-theme-hacker"
+
 # Required for Ruby 3.0+
 gem "webrick"
 
