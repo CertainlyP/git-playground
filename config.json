@@ -1,0 +1,17 @@
+{
+  "sources": {
+    "twitter_accounts": [
+      "vxunderground",
+      "JAMESWT_WT",
+      "malwrhunterteam"
+    ],
+    "article_urls": [
+      "https://example.com/threat-intel-blog"
+    ]
+  },
+  "settings": {
+    "twitter_session_file": "twitter_session.json",
+    "output_dir": "reports",
+    "max_tweets_per_account": 10
+  }
+}
