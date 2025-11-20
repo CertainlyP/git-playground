@@ -29,18 +29,6 @@ I focus on threat hunting, detection engineering, and security research. Passion
 
 ---
 
-## 📚 Blog & Research
-
-I maintain a threat hunting research blog where I share:
-- Detection techniques and rules (Sigma, KQL, SPL)
-- Threat hunting methodologies
-- Security tool reviews
-- IoC analysis and MITRE ATT&CK mappings
-
-**📖 Read my blog:** [Threat Hunting Research](https://certainlyp.github.io/git-playground/)
-
----
-
 ## 📊 GitHub Stats
 
 ![CertainlyP's GitHub stats](https://github-readme-stats.vercel.app/api?username=CertainlyP&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
@@ -65,7 +53,6 @@ areas_of_interest:
 
 ## 📫 Connect With Me
 
-- 📝 Blog: [certainlyp.github.io/git-playground](https://certainlyp.github.io/git-playground/)
 - 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle) *(update with your handle)*
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) *(update with your profile)*
 - 🔗 GitHub: [@CertainlyP](https://github.com/CertainlyP)
